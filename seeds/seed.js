@@ -61,7 +61,7 @@ let workoutSeeds = [
         exercises: [
           {
             type: "resistance",
-            name: "Bench Press",
+            name: "shotgun press",
             duration: 20,
             weight: 285,
             reps: 10,
@@ -74,7 +74,7 @@ let workoutSeeds = [
         exercises: [
           {
             type: "resistance",
-            name: "Bench Press",
+            name: "lateral press",
             duration: 20,
             weight: 300,
             reps: 10,
@@ -87,7 +87,7 @@ let workoutSeeds = [
         exercises: [
           {
             type: "resistance",
-            name: "Quad Press",
+            name: "Arnold press",
             duration: 30,
             weight: 300,
             reps: 10,
@@ -113,9 +113,9 @@ let workoutSeeds = [
         exercises: [
           {
             type: "resistance",
-            name: "Military Press",
+            name: "Pushups",
             duration: 20,
-            weight: 300,
+            weight: 250,
             reps: 10,
             sets: 4
           }
@@ -126,7 +126,7 @@ let workoutSeeds = [
         exercises: [
           {
             type: "cardio",
-            name: "Bench",
+            name: "treadmill",
             duration: 30,
             distance: 2
           }
